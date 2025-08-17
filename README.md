@@ -43,6 +43,6 @@ Ao concluir este projeto, foram exercitados:
 
 - **Java 17+**
 - **Lombok**
-- **Maven**
+- **Gradle**
 - **Enums e Records**
 - **Git/GitHub**
